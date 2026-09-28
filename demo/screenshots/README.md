@@ -12,8 +12,19 @@ Name your screenshots sequentially so they appear in logical order:
 
   
   02-main-feature.png       ← Your primary feature in action
+
+  <img width="764" height="798" alt="image" src="https://github.com/user-attachments/assets/ef84a4f8-1a52-4d0c-8811-e375c6857d85" />
+  <img width="1920" height="1482" alt="image" src="https://github.com/user-attachments/assets/20a5ca62-07f8-43a8-9711-39815a2bd81d" />
+
+
   03-output-or-results.png  ← The result / value delivered
+
+  <img width="1988" height="1442" alt="image" src="https://github.com/user-attachments/assets/3427a432-ca61-44c0-884e-75a6d4cfae0b" />
+
   04-additional-feature.png ← Any other notable screen
+
+  <img width="1946" height="1636" alt="image" src="https://github.com/user-attachments/assets/420c4047-7335-485f-881c-17c3f17025de" />
+
 
 ## Requirements
 
